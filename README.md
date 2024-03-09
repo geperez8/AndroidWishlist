@@ -4,7 +4,7 @@ Submitted by: Gerardo A. Perez
 
 Wisher is a wishlist app that helps the user keep track of what they want to buy.
 
-Time spent: 2 hours spent in total
+Time spent: 3 hours spent in total
 
 ## Required Features
 
